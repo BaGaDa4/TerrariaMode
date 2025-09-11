@@ -1,0 +1,11 @@
+Items: {
+	Повелительбури: {
+		DisplayName: Повелитель бури
+		Tooltip: Меч который способен победить Йорма
+	}
+
+	PowerBow: {
+		DisplayName: PowerBow
+		Tooltip: Лук, созданный из древних ветров
+	}
+}
