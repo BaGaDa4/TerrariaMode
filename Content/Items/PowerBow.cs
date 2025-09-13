@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Groop_Project.Content.Items
+namespace TerrariaMode.Content.Items
 {
     public class PowerBow : ModItem
     {
