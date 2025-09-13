@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Groop_Project.Content.Items
+namespace TerrariaMode.Content.Items
 {
 	// This is a basic item template.
 	// Please see tModLoader's ExampleMod for every other example:
