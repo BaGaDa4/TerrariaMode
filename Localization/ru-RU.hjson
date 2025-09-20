@@ -1,0 +1,17 @@
+{
+  "Mods.TerrariaMode.Items.Повелительбури.DisplayName": "Повелитель бури",
+  "Mods.TerrariaMode.Items.Повелительбури.Tooltip": "Меч, который способен победить Йорма",
+
+  "Mods.TerrariaMode.Items.PowerBow.DisplayName": "PowerBow",
+  "Mods.TerrariaMode.Items.PowerBow.Tooltip": "Лук, созданный из древних ветров",
+  
+  "Mods.TerrariaMode.Items.DawnSword.DisplayName": "Рассвет",
+  "Mods.TerrariaMode.Items.DawnSword.Tooltip": "Меч, выкованный из света утренней звезды.\nНосимый только теми, кто достоин.",
+
+  "Mods.TerrariaMode.NPC.JaimeLannister.Chat1": "У меня есть товары, которых ты нигде больше не найдешь!",
+  "Mods.TerrariaMode.NPC.JaimeLannister.Chat2": "Когда снег идёт и белый ветер поёт, одинокий волк погибает, но стая живёт",
+  "Mods.TerrariaMode.NPC.JaimeLannister.Chat3": "Ты не поверишь, что я нашёл в пустыне...",
+  "Mods.TerrariaMode.NPC.JaimeLannister.ChatParty": "Когда снег идёт и белый ветер поёт, одинокий волк погибает, но стая живёт",
+  "Mods.TerrariaMode.NPC.JaimeLannister.ShopButton": "Купить",
+  "Mods.TerrariaMode.NPC.JaimeLannister.DisplayName": "Джейме Ланнистер"
+}
