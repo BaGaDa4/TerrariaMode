@@ -1,0 +1,16 @@
+
+{ 
+  "Mods.TerrariaMode.Items.Повелительбури.DisplayName": "Повелитель бури",
+  "Mods.TerrariaMode.Items.Повелительбури.Tooltip": "Меч, который способен победить Йорма",
+
+  "Mods.TerrariaMode.Items.PowerBow.DisplayName": "PowerBow",
+  "Mods.TerrariaMode.Items.PowerBow.Tooltip": "Лук, созданный из древних ветров",
+  "Mods.TerrariaMode.Items.DawnSword.DisplayName": "Рассвет",
+  "Mods.TerrariaMode.Items.DawnSword.Tooltip": "Меч, выкованный из света утренней звезды.\nНосимый только теми, кто достоин.",
+
+  "Mods.TerrariaMode.NPCs.Raphael.DisplayName": "Рафаил",
+  "Mods.TerrariaMode.NPCs.Raphael.Bestiary": "Хозяин Дома Надежды и правитель Преисподней",
+
+  "Mods.TerrariaMode.Items.RaphaelSummonItem.DisplayName": "Посох призыва Рафаила",
+  "Mods.TerrariaMode.Items.RaphaelSummonItem.Tooltip": "Призывает Рафаила прямом из Преисподней"
+}
