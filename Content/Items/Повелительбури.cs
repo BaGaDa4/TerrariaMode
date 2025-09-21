@@ -14,8 +14,8 @@ namespace TerrariaMode.Content.Items
 		{
 			Item.damage = 100;
 			Item.DamageType = DamageClass.Melee;
-			Item.width = 60;
-			Item.height = 60;
+			Item.width = 32;
+			Item.height = 32;
 			Item.useTime = 10;
 			Item.useAnimation = 20;
 			Item.useStyle = ItemUseStyleID.Swing;
