@@ -1,24 +1,32 @@
-Items: {
-	Повелительбури: {
-		// DisplayName: Повелитель бури
-		// Tooltip: Меч который способен победить Йорма
-	}
+{
+  "Mods.TerrariaMode.Items.WindStaff.DisplayName": "WindStaff",
+  "mods.TerrariaMode.Items.WindStaff.Tooltip": "Посох, созданный ветрами",
 
-	PowerBow: {
-		// DisplayName: PowerBow
-		// Tooltip: Лук, созданный из древних ветров
-	}
+  "Mods.TerrariaMode.Items.CustomBossItem.DisplayName": "Custom Boss Item",
+  "Mods.TerrariaMode.Items.CustomBossItem.Tooltip": ""
 
-	WindStaff: {
-		// DisplayName: WindStaff
-		// Tooltip: Посох, созданный ветрами
-	}
+  "Mods.TerrariaMode.Items.Повелительбури.DisplayName": "Повелитель бури",
+  "Mods.TerrariaMode.Items.Повелительбури.Tooltip": "Меч, который способен победить Йорма",
 
-	CustomBossItem: {
-		// DisplayName: Custom Boss Item
-		// Tooltip: ""
-	}
+  "Mods.TerrariaMode.Items.PowerBow.DisplayName": "PowerBow",
+  "Mods.TerrariaMode.Items.PowerBow.Tooltip": "Лук, созданный из древних ветров",
+
+  "Mods.TerrariaMode.Items.DawnSword.DisplayName": "Рассвет",
+  "Mods.TerrariaMode.Items.DawnSword.Tooltip": "Меч, выкованный из света утренней звезды.\nНосимый только теми, кто достоин.",
+
+  "Mods.TerrariaMode.NPC.JaimeLannister.Chat1": "У меня есть товары, которых ты нигде больше не найдешь!",
+  "Mods.TerrariaMode.NPC.JaimeLannister.Chat2": "Когда снег идёт и белый ветер поёт, одинокий волк погибает, но стая живёт",
+  "Mods.TerrariaMode.NPC.JaimeLannister.Chat3": "Ты не поверишь, что я нашёл в пустыне...",
+  "Mods.TerrariaMode.NPC.JaimeLannister.ChatParty": "Когда снег идёт и белый ветер поёт, одинокий волк погибает, но стая живёт",
+  "Mods.TerrariaMode.NPC.JaimeLannister.ShopButton": "Купить",
+  "Mods.TerrariaMode.NPC.JaimeLannister.DisplayName": "Джейме Ланнистер"
+
+  "Mods.TerrariaMode.NPCs.Raphael.DisplayName": "Рафаил",
+  "Mods.TerrariaMode.NPCs.Raphael.Bestiary": "Хозяин Дома Надежды и правитель Преисподней",
+
+  "Mods.TerrariaMode.Items.RaphaelSummonItem.DisplayName": "Посох призыва Рафаила",
+  "Mods.TerrariaMode.Items.RaphaelSummonItem.Tooltip": "Призывает Рафаила прямом из Преисподней"
 }
+Projectiles.WindStaffProjectile.DisplayName: Wind Staff Projectile
+NPCs.CustomBoss.DisplayName: Кастомный Босс
 
-// Projectiles.WindStaffProjectile.DisplayName: Wind Staff Projectile
-// NPCs.CustomBoss.DisplayName: Кастомный Босс
