@@ -3,7 +3,7 @@ using Terraria.ModLoader;
 using Terraria.ID;
 using Microsoft.Xna.Framework;
 
-namespace Groop_Project.Content.Projectiles
+namespace TerrariaMode.Content.Projectiles
 {
     public class WindStaffProjectile : ModProjectile
     {
@@ -24,7 +24,7 @@ namespace Groop_Project.Content.Projectiles
                 Projectile.velocity.X * 0.5f, Projectile.velocity.Y * 0.5f, 100, default, 1f);
             Main.dust[dustIndex].noGravity = true;
 
-            // Добавляем свет
+            
             Lighting.AddLight(Projectile.Center, 0.5f, 0.8f, 1f);
         }
     }
