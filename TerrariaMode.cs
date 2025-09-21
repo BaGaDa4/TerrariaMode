@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using Terraria.ModLoader;
 
-namespace Groop_Project
+namespace TerrariaMode
 {
 	// Please read https://github.com/tModLoader/tModLoader/wiki/Basic-tModLoader-Modding-Guide#mod-skeleton-contents for more information about the various files in a mod.
-	public class Groop_Project : Mod
+	public class TerrariaMode : Mod
 	{
 
 	}
