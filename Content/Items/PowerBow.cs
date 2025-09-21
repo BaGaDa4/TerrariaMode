@@ -1,17 +1,19 @@
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
+using Microsoft.Xna.Framework;
 
 namespace TerrariaMode.Content.Items
 {
+    
     public class PowerBow : ModItem
     {
         public override void SetDefaults()
         {
             Item.damage = 50;
             Item.DamageType = DamageClass.Ranged;
-            Item.width = 30;
-            Item.height = 40;
+            Item.width = 48;
+            Item.height = 56;
             Item.useTime = 25;
             Item.useAnimation = 25;
             Item.useStyle = ItemUseStyleID.Shoot;
@@ -25,6 +27,11 @@ namespace TerrariaMode.Content.Items
             Item.useAmmo = AmmoID.Arrow;
             Item.shoot = ProjectileID.WoodenArrowFriendly;
             Item.shootSpeed = 16f;
+        }
+
+        public override void HoldItem(Player player)
+        {
+            player.itemLocation += new Vector2(-10f, 0f); 
         }
 
         public override void AddRecipes()
