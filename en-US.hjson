@@ -20,6 +20,11 @@ Mods: {
 				DisplayName: Повелительбури
 				Tooltip: ""
 			}
+
+			DawnSword: {
+				DisplayName: Dawn Sword
+				Tooltip: ""
+			}
 		}
 
 		NPCs.CustomBoss.DisplayName: Custom Boss

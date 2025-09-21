@@ -1,0 +1,33 @@
+Mods: {
+	TerrariaMode: {
+		Items: {
+			CustomBossItem: {
+				// DisplayName: Custom Boss Item
+				// Tooltip: ""
+			}
+
+			PowerBow: {
+				// DisplayName: Power Bow
+				// Tooltip: ""
+			}
+
+			WindStaff: {
+				// DisplayName: Wind Staff
+				// Tooltip: ""
+			}
+
+			Повелительбури: {
+				// DisplayName: Повелительбури
+				// Tooltip: ""
+			}
+
+			DawnSword: {
+				// DisplayName: Dawn Sword
+				// Tooltip: ""
+			}
+		}
+
+		// NPCs.CustomBoss.DisplayName: Custom Boss
+		// Projectiles.WindStaffProjectile.DisplayName: Wind Staff Projectile
+	}
+}
