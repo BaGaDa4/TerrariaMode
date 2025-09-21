@@ -2,9 +2,9 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
-using Groop_Project.Content.Projectiles;
+using TerrariaMode.Content.Projectiles;
 
-namespace Groop_Project.Content.Items
+namespace TerrariaMode.Content.Items
 {
     public class WindStaff : ModItem
     {
