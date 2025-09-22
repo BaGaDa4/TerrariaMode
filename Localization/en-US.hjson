@@ -1,9 +1,9 @@
 {
   "Mods.TerrariaMode.Items.WindStaff.DisplayName": "WindStaff",
-  "mods.TerrariaMode.Items.WindStaff.Tooltip": "Посох, созданный ветрами",
+  "Mods.TerrariaMode.Items.WindStaff.Tooltip": "Посох, созданный ветрами",
 
   "Mods.TerrariaMode.Items.CustomBossItem.DisplayName": "Custom Boss Item",
-  "Mods.TerrariaMode.Items.CustomBossItem.Tooltip": ""
+  "Mods.TerrariaMode.Items.CustomBossItem.Tooltip": "",
 
   "Mods.TerrariaMode.Items.Повелительбури.DisplayName": "Повелитель бури",
   "Mods.TerrariaMode.Items.Повелительбури.Tooltip": "Меч, который способен победить Йорма",
@@ -19,14 +19,14 @@
   "Mods.TerrariaMode.NPC.JaimeLannister.Chat3": "Ты не поверишь, что я нашёл в пустыне...",
   "Mods.TerrariaMode.NPC.JaimeLannister.ChatParty": "Когда снег идёт и белый ветер поёт, одинокий волк погибает, но стая живёт",
   "Mods.TerrariaMode.NPC.JaimeLannister.ShopButton": "Купить",
-  "Mods.TerrariaMode.NPC.JaimeLannister.DisplayName": "Джейме Ланнистер"
+  "Mods.TerrariaMode.NPC.JaimeLannister.DisplayName": "Джейме Ланнистер",
 
   "Mods.TerrariaMode.NPCs.Raphael.DisplayName": "Рафаил",
   "Mods.TerrariaMode.NPCs.Raphael.Bestiary": "Хозяин Дома Надежды и правитель Преисподней",
 
   "Mods.TerrariaMode.Items.RaphaelSummonItem.DisplayName": "Посох призыва Рафаила",
-  "Mods.TerrariaMode.Items.RaphaelSummonItem.Tooltip": "Призывает Рафаила прямом из Преисподней"
-}
-Projectiles.WindStaffProjectile.DisplayName: Wind Staff Projectile
-NPCs.CustomBoss.DisplayName: Кастомный Босс
+  "Mods.TerrariaMode.Items.RaphaelSummonItem.Tooltip": "Призывает Рафаила прямом из Преисподней",
 
+  "Projectile.WindStaffProjectile.DisplayName": "Wind Staff Projectile",
+  "NPCs.CustomBoss.DisplayName": "Кастомный Босс"
+}

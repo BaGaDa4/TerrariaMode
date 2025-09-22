@@ -73,7 +73,7 @@ namespace TerrariaMode.Content.NPCs
                 if (Main.netMode != NetmodeID.MultiplayerClient)
                 {
                     Vector2 velocity = Vector2.Normalize(player.Center - NPC.Center) * 10f;
-                    Projectile.NewProjectile(
+                    Terraria.Projectile.NewProjectile(
                         NPC.GetSource_FromAI(),
                         NPC.Center,
                         velocity,

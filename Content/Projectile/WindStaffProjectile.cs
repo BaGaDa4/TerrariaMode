@@ -3,7 +3,7 @@ using Terraria.ModLoader;
 using Terraria.ID;
 using Microsoft.Xna.Framework;
 
-namespace TerrariaMode.Content.Projectiles
+namespace TerrariaMode.Content.Projectile
 {
     public class WindStaffProjectile : ModProjectile
     {

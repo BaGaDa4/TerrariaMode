@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
-using TerrariaMode.Content.Projectiles;
+using TerrariaMode.Content.Projectile;
 
 namespace TerrariaMode.Content.Items
 {
